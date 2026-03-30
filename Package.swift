@@ -14,7 +14,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "CoreDataDome",
-                      url: "https://package.datadome.co/ios/CoreDataDome/0.5.0%2Bbuild.0.zip",
-                      checksum: "28922ffaa22a650aed6d55956e474f9d6324002e29267ba9290f398bd55ecf94")
+                      url: "https://package.datadome.co/ios/CoreDataDome/0.6.0%2Bbuild.4.zip",
+                      checksum: "0fdc1b65a34732dafb96428834e9a735161b5b7f079249cde996e8188cce4e82")
     ]
 )
